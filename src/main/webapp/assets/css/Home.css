@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+*{
+	margin:0;
+	padding:0;
+}
+.main{
+	   background-color : radial-gradient(#653d84, #332042);
+	   background-position:center;
+	   
+	   height:1px;
+}
+
+}
+.icon{
+	 color:orange;
+	 font-size:35px;
+	 font-family:Arial;
+	 padding-left:20px;
+	 float:left;
+	 padding-top:10px;
+}
+li.menu{
+	
+   
+   float:left;
+   margin-left:62px;
+   margin-top:27px;
+   font-size:20px;
+  
+}
+ul.menu{
+	list-style-type : none; 
+	margin : 0;
+	padding : 0; 
+	overflow :hidden;
+	overflow:hidden;
+	
+	
+}
+a{
+   text-decoration:none;
+   font-color:#000000;
+   font-family:arial;
+   font-weight:bold;
+   transition:0.4s ease-in-out;
+}
+a:hover{
+	
+	color:yellow;
+	
+	
+	
+	
+}
